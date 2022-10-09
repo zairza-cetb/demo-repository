@@ -5,4 +5,5 @@ We will be using this section to add the names and GitHub handles of the partici
 ## Participants list
 
 - Parul Sahoo - [@parul5sahoo](https://github.com/parul5sahoo),
-- 
+- Parul Sahoo 02 - [@parul]
+- parul sahoo 03
