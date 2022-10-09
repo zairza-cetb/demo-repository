@@ -11,7 +11,7 @@ Mostly the formatting is implemented by wrapping the text in certain characters 
 ### Highlighting Texts 
 
 - For making a text **Bold** wrap the text within `** **`.
-- FOr making a text *Italic* wrap the text within `* *`.
+- For making a text *Italic* wrap the text within `* *`.
 - For striking out ~some text~ wrap it between `~ ~`.
 (We also created a list here by preceding the list items with a hyphen `-`.) 
 
