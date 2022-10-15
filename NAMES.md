@@ -8,5 +8,6 @@ We will be using this section to add the names and GitHub handles of the partici
 - Jasmin Pradhan -[@JasminPradhan](https://github.com/JasminPradhan)
 - Sanchita Mishra -[@sanchita-07](https://github.com/sanchita-07)
 - Yagyandatta Murmu -[@yagyandatta](https://github.com/yagyandatta)
+- Pritam kumar Dash -[@Pritam-coder884](https://github.com/Pritam-coder884)
 
 
